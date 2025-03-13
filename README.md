@@ -1,0 +1,1 @@
+This repository contains a Python implementation of a character-level text generation model using a Long Short-Term Memory (LSTM) neural network. The model is trained on the "Tiny Shakespeare" dataset, a small corpus of Shakespeare's works, to predict the next character in a sequence and generate Shakespearean-style text
